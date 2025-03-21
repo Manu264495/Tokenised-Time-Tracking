@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokenized Time Tracking</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Freelance Time Tracker</h1>
+        <button id="connectWallet">Connect Wallet</button>
+        
+        <div id="dashboard" class="hidden">
+            <p><strong>Account:</strong> <span id="userAddress">Not connected</span></p>
+            <p><strong>Tokens Earned:</strong> <span id="tokenBalance">0</span> FTT</p>
+            
+            <button id="startWork" class="start-btn">Start Work</button>
+            <button id="stopWork" class="stop-btn hidden">Stop Work</button>
+        </div>
+    </div>
+</body>
+</html>
