@@ -21,3 +21,5 @@ This README provides an overview of the NFT Art Marketplace, its vision, and its
 
 0xc64A69E9BFC7e91F0121E09d5cf95dE0D9cB0F37
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/f2dc60ea-b3ad-4abd-9f66-70523c5a35de" />
+##frontend
+![WhatsApp Image 2025-03-21 at 09 50 57_4ba2432b](https://github.com/user-attachments/assets/7b09b5df-fc22-464b-8389-49512b931d9b)
